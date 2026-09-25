@@ -27,7 +27,7 @@ my open-source, copyright-free rev254 private server, on solana. train skills, d
 </tr>
 </table>
 
-radrun and radpayne run on [react-three-game](https://prnth.com/react-three-game/) by prnth.
+radrun and radpayne run on [react-three-game](https://prnth.com/react-three-game/) by prnth. the miladys in radpayne are [pockit](https://github.com/prnthh/Pockit) miladys by prnth, used with his permission.
 
 ### 3d radbros, free to use
 
@@ -40,7 +40,7 @@ radrun and radpayne run on [react-three-game](https://prnth.com/react-three-game
 </tr>
 </table>
 
-four radbros, rigged and animated. put them in your game, render them, remix them, sell them. for radbros, miladies, anyone.
+four of my own radbros, rigged and animated (used with the radbro webring dev's permission). put them in your game, render them, remix them, sell them. for radbros, miladies, anyone.
 get them from [radbros-3d](https://github.com/dexedrne/radbros-3d) or one click each at [vyvanse.beer](https://vyvanse.beer/#crew).
 
 ### sites i built
