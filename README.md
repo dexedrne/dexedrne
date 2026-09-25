@@ -1,4 +1,4 @@
-i make browser games and 3d radbros. all of it is free to play, fork and use.
+i make browser games and 3d radbros. the games are free to play and the radbros are free to use.
 
 [vyvanse.beer](https://vyvanse.beer) · [x.com/dexedrne](https://x.com/dexedrne)
 
@@ -27,7 +27,7 @@ my open-source, copyright-free rev254 private server, on solana. train skills, d
 </tr>
 </table>
 
-radrun and radpayne run on [react-three-game](https://prnth.com/react-three-game/) by prnth. the miladys in radpayne are [pockit](https://github.com/prnthh/Pockit) miladys by prnth, used with his permission.
+radrun and radpayne run on [react-three-game](https://prnth.com/react-three-game/) by prnth. the miladys in both are [pockit](https://github.com/prnthh/Pockit) miladys by prnth, used with his permission.
 
 ### 3d radbros, free to use
 
@@ -59,7 +59,7 @@ for other people's projects.
 
 ### use my stuff
 
-the 3d radbros, radrun and radpayne are under the [viral public license](https://viralpubliclicense.org/VPL.txt), same as milady and remilio: use them for anything, no credit needed, just keep the license attached. the vyvanse.beer site code is MIT.
+the 3d radbros are under the [viral public license](https://viralpubliclicense.org/VPL.txt), same as milady and remilio: use them for anything, no credit needed, just keep the license attached.
 
 ### contact
 
