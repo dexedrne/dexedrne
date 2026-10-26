@@ -67,9 +67,25 @@ team deathmatch in a sun-bleached cul-de-sac, 4v4 or 5v5 online, bots fill the e
 <a href="https://radops.vyvanse.beer">play (early)</a>
 </td>
 </tr>
+<tr>
+<td width="33%" valign="top">
+<a href="https://radbonk.vyvanse.beer"><img src="https://vyvanse.beer/img/art/radbonk.webp" alt="RADBONK" width="100%"></a>
+<br><b>RADBONK</b><br>
+survivor-like in a dark forest and a desert past the boss portal. auto-fire, pick upgrades, outlast the waves, unlock feats and a camp tree between runs.<br>
+<a href="https://radbonk.vyvanse.beer">play</a>
+</td>
+<td width="33%" valign="top">
+<a href="https://radquest.vyvanse.beer"><img src="img/radquest.webp" alt="RadQuest" width="100%"></a>
+<br><b>RadQuest</b><br>
+a little radbro village at dusk to walk around in: a well, a market, benches, villagers. tech demo, more on the way.<br>
+<a href="https://radquest.vyvanse.beer">play (demo)</a>
+</td>
+<td width="33%" valign="top">
+</td>
+</tr>
 </table>
 
-spidertag and radpayne run on [react-three-game](https://prnth.com/react-three-game/) by prnth. the miladys in them are [pockit](https://github.com/prnthh/Pockit) miladys by prnth, used with his permission.
+spidertag and radpayne run on [react-three-game](https://prnth.com/react-three-game/) by prnth. the miladys in them (and the villagers coming to radquest, remilio included) are [pockit](https://github.com/prnthh/Pockit) miladys by prnth, used with his permission.
 
 ### the crew in 3d, free to use
 
