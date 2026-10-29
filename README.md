@@ -81,6 +81,22 @@ a little radbro village at dusk to walk around in: a well, a market, benches, vi
 <a href="https://radquest.vyvanse.beer">play (demo)</a>
 </td>
 <td width="33%" valign="top">
+<a href="https://radcraft.vyvanse.beer"><img src="img/radcraft.webp" alt="RADCRAFT" width="100%"></a>
+<br><b>RADCRAFT</b><br>
+a voxel sandbox with the radbros and radcats. dig, build, farm, craft four tiers of tools and armour, find buried vaults, tame a radcat, and get through the night.<br>
+<a href="https://radcraft.vyvanse.beer">play (early)</a>
+</td>
+</tr>
+<tr>
+<td width="33%" valign="top">
+<a href="https://brogate.vyvanse.beer"><img src="img/brogate.webp" alt="BROGATE" width="100%"></a>
+<br><b>BROGATE</b><br>
+turn-based party rpg with a radbro squad in tallow, a river city of candles and paperwork. three broke people stuck outside a gate that has stopped opening.<br>
+<a href="https://brogate.vyvanse.beer">play (early)</a>
+</td>
+<td width="33%" valign="top">
+</td>
+<td width="33%" valign="top">
 </td>
 </tr>
 </table>
@@ -121,6 +137,7 @@ my own [solscape](https://play.solscape.fun), an open-source, copyright-free rev
 <td align="center" valign="top"><a href="https://www.bulked.lol/games/bulkagachi"><img src="https://vyvanse.beer/img/bulkagachi.webp" alt="bulkagachi" width="150"></a><br>bulkagachi</td>
 <td align="center" valign="top"><a href="https://www.sanic.fun"><img src="https://vyvanse.beer/img/sanic.webp" alt="sanic" width="150"></a><br>sanic</td>
 <td align="center" valign="top"><a href="https://www.crankmyhog.lol/assets/hog-rider-3d/index.html"><img src="https://vyvanse.beer/img/hog.webp" alt="hog rider 3d" width="150"></a><br>hog rider 3d</td>
+<td align="center" valign="top"><a href="https://sassysol.lol"><img src="https://vyvanse.beer/img/sassy.webp" alt="sassy" width="150"></a><br>sassy</td>
 </tr>
 </table>
 
