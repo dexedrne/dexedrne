@@ -105,6 +105,29 @@ turn-based party rpg with a radbro squad in tallow, a river city of candles and 
 
 spidertag and radpayne run on [react-three-game](https://prnth.com/react-three-game/) by prnth. the miladys in them (and the villagers coming to radquest, remilio included) are [pockit](https://github.com/prnthh/Pockit) miladys by prnth, used with his permission.
 
+### kingdom hearts mods
+
+free, for everyone. no patreon, no early-access tiers, no paywalled builds, no gatekeeping.
+
+<table>
+<tr>
+<td width="50%" valign="top">
+<img src="img/roxas-may-cry.webp" alt="Roxas May Cry" width="100%">
+<br><b>Roxas May Cry</b><br>
+kingdom hearts ii final mix as roxas, played all the way to the end: the late game, the world that never was and the ending finished and fixed, plus the ps2 version's extra fights and rules brought back. four modes (critical, less than nothing, xion knows best, xion always cries), an in-game settings menu with cheats, and switch between roxas and xion whenever you want. postgame on the way.<br>
+coming soon
+</td>
+<td width="50%" valign="top">
+<img src="img/xion-always-cries.webp" alt="Xion Always Cries" width="100%">
+<br><b>Xion Always Cries</b><br>
+the xion side: xion playable in roxas's place, on his skeleton and moves, with her own hud faces, menu names and battle voice, hooded or not. two modes of her own: xion knows best (critical rules) and xion always cries (less than nothing rules). an hd xion built from your own copy of kingdom hearts iii is next.<br>
+coming soon
+</td>
+</tr>
+</table>
+
+pc, installed with the [openkh](https://github.com/OpenKH/OpenKh) mods manager. no game files get passed around: the release is a builder that makes the mod from the copy of the game you own.
+
 ### the crew in 3d, free to use
 
 <table>
