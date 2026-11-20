@@ -1,5 +1,5 @@
 i make browser games and 3d radbros. the games are free to play and the radbros are free to use.
-
+if you're against "vibecoding" or ai-use kindly go fuck yourself 
 [vyvanse.beer](https://vyvanse.beer) · [x.com/dexedrne](https://x.com/dexedrne)
 
 ### games
