@@ -114,8 +114,8 @@ free, for everyone. no patreon, no early-access tiers, no paywalled builds, no g
 <td width="50%" valign="top">
 <img src="img/roxas-may-cry.webp" alt="Roxas May Cry" width="100%">
 <br><b>Roxas May Cry</b><br>
-kingdom hearts ii final mix as roxas, played all the way to the end: the late game, the world that never was and the ending finished and fixed, plus the ps2 version's extra fights and rules brought back. four modes (critical, less than nothing, xion knows best, xion always cries), an in-game settings menu with cheats, and switch between roxas and xion whenever you want. postgame on the way.<br>
-coming soon
+kingdom hearts ii final mix as roxas, played all the way to the end: the late game, the world that never was and the ending finished and fixed, plus the ps2 version's extra fights and rules brought back. four modes (critical, less than nothing, xion knows best, xion always cries), an in-game settings menu with cheats, and switch between roxas and xion whenever you want, plus the postgame.<br>
+<a href="https://github.com/dexedrne/roxas-may-cry">build it from your own game</a>
 </td>
 <td width="50%" valign="top">
 <img src="img/xion-always-cries.webp" alt="Xion Always Cries" width="100%">
@@ -130,6 +130,7 @@ pc, installed with the [openkh](https://github.com/OpenKH/OpenKh) mods manager. 
 
 out now, all public:
 
+- [Roxas May Cry](https://github.com/dexedrne/roxas-may-cry): the Roxas campaign played to the end, built on your PC from your own game files
 - [NMC Fixed](https://github.com/dexedrne/NMC-Fixed): the original Nobody May Cry mod with every fix and addition, for the Steam version through OpenKH
 - [Nobody May Cry: Recompiled](https://github.com/dexedrne/nmc-recomp): the game and the mod recompiled to run natively on iPhone, macOS and Linux
 - [nmc-decomposed](https://github.com/dexedrne/nmc-decomposed): the mod as readable patches, rebuilt from your own copy of the game
