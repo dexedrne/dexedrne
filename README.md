@@ -128,6 +128,13 @@ coming soon
 
 pc, installed with the [openkh](https://github.com/OpenKH/OpenKh) mods manager. no game files get passed around: the release is a builder that makes the mod from the copy of the game you own.
 
+out now, all public:
+
+- [NMC Fixed](https://github.com/dexedrne/NMC-Fixed): the original Nobody May Cry mod with every fix and addition, for the Steam version through OpenKH
+- [Nobody May Cry: Recompiled](https://github.com/dexedrne/nmc-recomp): the game and the mod recompiled to run natively on iPhone, macOS and Linux
+- [nmc-decomposed](https://github.com/dexedrne/nmc-decomposed): the mod as readable patches, rebuilt from your own copy of the game
+- [kh2fm-save-converter](https://github.com/dexedrne/kh2fm-save-converter): bring a PS2 (PCSX2) Final Mix save into the Steam version
+
 ### the crew in 3d, free to use
 
 <table>
